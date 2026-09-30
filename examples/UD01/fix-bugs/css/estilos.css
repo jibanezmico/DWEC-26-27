@@ -13,6 +13,11 @@ body {
 
 header {
     text-align: center;
+    padding: 24px 16px;
+    border-radius: 8px;
+    background-color: #dfe7f2;
+    background-image: url("img/cabecera.svg");
+    background-size: cover;
 }
 
 .escaparate {
